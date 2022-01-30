@@ -15,5 +15,4 @@
 <!-- <a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
  -->
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
