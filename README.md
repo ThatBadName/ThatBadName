@@ -1,7 +1,7 @@
 ### ooooh look its stuff about me
 
 # Info
-• Im working on [IV-5]() ![](https://dcbadge.vercel.app/api/shield/919242400738730005)
+• Im working on [IV-5]()
 
 # My stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalkerOfDarkness&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
