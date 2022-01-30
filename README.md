@@ -4,7 +4,7 @@
 • Im working on [IV-5]()
 
 # My stuff
-[![My Discord](https://img.shields.io/discord/922510520312033290.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/cutSU3gXgJ)
+[My Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 # My stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalkerOfDarkness&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
