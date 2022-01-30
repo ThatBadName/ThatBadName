@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 # My stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalkerOfDarkness&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-<a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+
+
+<!-- <a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
+ -->
+ 
+ <iframe src="https://discord.com/widget?id=922510520312033290&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
