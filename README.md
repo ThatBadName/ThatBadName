@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 # My stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalkerOfDarkness&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-https://github-readme-stats.vercel.app/api/top-langs/?username=WalkerOfDarkness)](https://github.com/anuraghazra/github-readme-stats
+<a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+</p>
