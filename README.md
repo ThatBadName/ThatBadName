@@ -11,7 +11,8 @@
 
 # My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalkerOfDarkness&show_icons=true&theme=tokyonight&hide_border=false&show_icons=true)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalkerOfDarkness&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalkerOfDarkness&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)\
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WalkerOfDarkness&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&stroke=DD2727&sideLabels=DD2727&currStreakLabel=DD0C00&fire=6531FF)](https://git.io/streak-stats)
 
 
 <!-- <a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
