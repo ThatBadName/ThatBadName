@@ -4,7 +4,9 @@
 ![Profile views](https://gpvc.arturio.dev/WalkerOfDarkness)
 
 • Im working on [IV-5](https://github.com/WalkerOfDarkness/IV-5)
+
 • I like to code
+
 • I make alot of my stuff open-source
 
 # My stuff
