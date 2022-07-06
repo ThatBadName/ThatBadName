@@ -1,4 +1,4 @@
-[### ooooh look its stuff about me
+### Hello!
 
 # Info
 ![Profile views](https://gpvc.arturio.dev/WalkerOfDarkness)\
@@ -18,6 +18,3 @@
 <!-- <a href="https://discord.gg/cutSU3gXgJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
  -->
-
-OTIyNTE2NTEyNDQxNTAzNzU0.G3Eeh-.A8-pNtWFzhMi_UTV-2Njv7Hvejdeqi_0EaCDy0
-](https://thatbadname.github.io/IV-BOTS/index.html)
