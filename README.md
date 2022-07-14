@@ -2,7 +2,7 @@
 
 # Info
 ![Profile views](https://gpvc.arturio.dev/WalkerOfDarkness)\
-• Im working on [3 bots](https://github.com/WalkerOfDarkness/IV-5)\
+• Im working on making a new bot called [Closed Construction](https://thatbadname.github.io/Closed-Public-Website/)\
 • I like to code\
 • I make alot of my stuff open-source
 
